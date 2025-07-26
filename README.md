@@ -2,8 +2,7 @@
 Hi there! This is a README file for your GitHub profile.
 To make it yours, you just need to:
 1. Make sure your GitHub username `karim7charti` is correct in the stats links.
-2. Replace the placeholder links for LinkedIn and Twitter with your actual URLs.
-3. Update the "Featured Projects" section with links to your best work.
+2. Replace the placeholder link for LinkedIn with your actual URL.
 -->
 
 <div id="header" align="center">
@@ -31,7 +30,7 @@ My goal is to bridge the gap between powerful functionality and elegant design, 
 ### 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://dev-masters.netlify.app/" target="_blank">
+  <a href="https://karimelmrissani.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hugo&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:karimelmrissani@gmail.com">
@@ -91,11 +90,6 @@ Here are some of the technologies I love to work with:
 
 ### 📊 My GitHub Stats & Activity
 
-<!-- 
-NOTE: The stats below are dynamically generated. The `?username=karim7charti` part is what links them to your account.
-You can customize the themes here: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
--->
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karim7charti&show_icons=true&locale=en&theme=github_dark&hide_border=true&count_private=true" alt="karim7charti's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karim7charti&layout=compact&locale=en&theme=github_dark&hide_border=true&count_private=true" alt="Top Languages" />
@@ -107,19 +101,23 @@ You can customize the themes here: https://github.com/anuraghazra/github-readme-
 
 ---
 
-### 🚀 My Featured Projects
+### 🚀 A Selection of My Projects
 
-I've worked on a diverse range of projects, from freelance client work to enterprise-level applications. Here are a few highlights! You can find more details in my pinned repositories.
+I've worked on a diverse range of projects, from freelance client work to enterprise-level applications. Here is a selection of my work, showcasing my skills across different technologies.
 
-<!-- 
-IMPORTANT: Update this section with 2-3 of your best projects. 
-- Get a screenshot of your project.
-- Upload it to this repository.
-- Replace the placeholder image links and project links.
--->
+| Project                                    | Description                                                          | Technologies Used                               |
+| ------------------------------------------ | -------------------------------------------------------------------- | ----------------------------------------------- |
+| **SOS Mario**                              | A mobile app for booking artisans, built for a French company.       | `React Native`, `Node.js`, `MongoDB`, `Firebase`  |
+| **LiveZen**                                | Mobile app for remote participation in live events using AR.         | `React Native`, `Node.js`, `Unity`, `Firebase`    |
+| **FitMe**                                  | A web application and landing page for managing gym members.         | `React.js`, `Spring Boot`                         |
+| **ESTORH**                                 | An HR management web application built for a student client.         | `HTML`, `CSS`, `JavaScript`, `PHP`                |
+| **SupMTI Hub**                             | A "social media" style web application for a private school.         | `React.js`, `Symfony`                             |
+| **9adiyti**                                | A mobile app for lawyer job offers in Morocco.                       | `React Native`, `Laravel`                         |
+| **GetSerial**                              | An e-commerce platform for software activation codes.                | `React.js`, `Laravel`                             |
+| **DevMasters Portfolio**                   | The commercial portfolio for the DevMasters freelance group.         | `HTML`, `CSS`, `JavaScript`, `Adobe XD`           |
 
-| Project                                                                                              | Description                                                                                                                              | Technologies Used                                               |
-| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| <a href="[PROJECT_1_LIVE_LINK]"><img src="[PROJECT_1_IMAGE_URL]" alt="Project 1" width="200"/></a> | **SOS Mario - Artisan Booking** <br/> A mobile app for a French company connecting users with local artisans for home services. Built and delivered with a freelance team. | `React Native`, `Node.js`, `Express`, `MongoDB`, `Firebase`      |
-| <a href="[PROJECT_2_LIVE_LINK]"><img src="[PROJECT_2_IMAGE_URL]" alt="Project 2" width="200"/></a> | **LiveZen - AR Event Participation** <br/> An innovative mobile app allowing users to remotely participate in worldwide events using Augmented Reality. | `React Native`, `Unity`, `Node.js`, `Firebase`                  |
-| <a href="[PROJECT_3_LIVE_LINK]"><img src="[PROJECT_3_IMAGE_URL]" alt="Project 3" width="200"/></a> | **LeBrain - Corporate Web App** <br/> A complex web application developed for a client at Novelis, featuring a modern UI and robust architecture. | `Next.js`, `TypeScript`, `Tailwind CSS`, `Spring Boot`, `Keycloak` | 
+<div align="center">
+  <a href="https://karimelmrissani.netlify.app/#portfolio" target="_blank">
+    <strong>➡️ View More Projects on My Portfolio</strong>
+  </a>
+</div>
