@@ -6,7 +6,6 @@ To make it yours, you just need to:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Jx5/giphy.gif" width="100"/>
   <h1>
     Hello there! 👋 I'm Karim EL MRISSANI
   </h1>
@@ -37,7 +36,7 @@ My goal is to bridge the gap between powerful functionality and elegant design, 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <!-- IMPORTANT: Replace with your actual LinkedIn URL -->
-  <a href="[YOUR_LINKEDIN_URL]" target="_blank">
+  <a href="https://www.linkedin.com/in/karim-el-mrissani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~01c4d56c9f8b3c31e6" target="_blank">
